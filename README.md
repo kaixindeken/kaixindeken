@@ -1,4 +1,4 @@
-### Hi there, this is kaixindeken 👋
+### Hi there, this is [kaixindeken](https://blog.kaixindeken.top) 👋
 
 I am a college student who is obsessed with software development and engineering. And I love open source and trying to learn and contribute.
 

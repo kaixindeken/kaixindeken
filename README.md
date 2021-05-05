@@ -4,7 +4,6 @@ I am a college student who is obsessed with software development and engineering
 
 * 🌱 I’m currently learning Computer Graphics & Cloud Computing.
 * 💻 I’m currently working in TwTStudio and TANKLAB(Tianjin Advanced Network Key Laboratory) as part time jobs.
-* 🔭 I’m currently working on ..., yeah, you can find them directly below.
 * 🤔 I want to build a open source Numeral Calculations Platform based on new Serverless consept recently.
 * ❤️ I like eating, video gaming and traveling.
 * 💬 Be free to ask me about anything [here](https://github.com/kaixindeken/kaixindeken/issues).

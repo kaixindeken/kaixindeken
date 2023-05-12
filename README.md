@@ -1,11 +1,10 @@
 ### Hi there, this is [kaixindeken](https://blog.kaixindeken.top) 👋
 
-I am a college student who is obsessed with software development and engineering. And I love open source and trying to learn and contribute.
+I am a os developer. And I love open source and trying to learn and contribute.
 
 * 🌱 I’m currently learning Computer Graphics & Cloud Computing.
-* 💻 I’m currently working in TwTStudio and TANKLAB(Tianjin Advanced Network Key Laboratory) as part time jobs.
-* 🤔 I want to build a open source Numeral Calculations Platform based on new Serverless consept recently.
-* ❤️ I like eating, video gaming and traveling.
+* 💻 I’m currently working in HL-IT(Haihe Laboratory of IT) as full time job.
+* ❤️ I like video gaming and traveling.
 * 💬 Be free to ask me about anything [here](https://github.com/kaixindeken/kaixindeken/issues).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaixindeken&show_icons=true&icon_color=0078e7&title_color=0078e7">
